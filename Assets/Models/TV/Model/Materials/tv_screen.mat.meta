@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7e94f75bbffa89342b6ee7b7badd3b41
+timeCreated: 1497721814
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 96583
+  packageName: YGS TV
+  packageVersion: 1.0
+  assetPath: Assets/Models/TV/Model/Materials/tv_screen.mat
+  uploadId: 195211
