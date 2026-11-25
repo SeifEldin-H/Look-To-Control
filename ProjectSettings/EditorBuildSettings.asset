@@ -4,6 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Unity Essentials/Scenes/4_LivingRoom_Programming_Scene.unity
+    guid: a6368f7fda5ac4dca86952aebdc7d568
+  - enabled: 1
+    path: Assets/_Unity Essentials/Scenes/3_Kitchen_Audio_Scene.unity
+    guid: 6ddeb5bb8dda34b6183a30b9409cd6a9
   m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 4419d82f33d36e848b3ed5af4c8da37e, type: 3}
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 0a99289f0d9128fd98d4131366704e7b, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 6283f1289bccd39cea238e32f822c9ef, type: 3}
